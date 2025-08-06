@@ -11,7 +11,7 @@
 
 -  Ask me about **Python, ML Classification Models, NLP chatbots**
 
-- 📫 How to reach me **sifakaveza@gmail.com**
+-  How to reach me **sifakaveza@gmail.com**
 
 -  Know about my experiences [https://docs.google.com/document/d/1a1L2TAVejGe_ys9QgPQiVHD4hmVbOVH4E11X34GCxEM/edit?usp=sharing](https://docs.google.com/document/d/1a1L2TAVejGe_ys9QgPQiVHD4hmVbOVH4E11X34GCxEM/edit?usp=sharing)
 
