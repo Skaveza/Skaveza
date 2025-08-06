@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sifa Kaveza Mwachoni</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Kenya 🇰🇪 | Building AI for impact</h3>
 
-- 🔭 I’m currently working on **AI-powered diagnostic chatbots for underserved regions**
+-  I’m currently working on **AI-powered diagnostic chatbots for underserved regions**
 
-- 🌱 I’m currently learning **LLM deployment (LangChain, Ollama), MLOps (MLflow), and NLP optimization (Hugging Face, quantization)**
+-  I’m currently learning **LLM deployment (LangChain, Ollama), MLOps (MLflow), and NLP optimization (Hugging Face, quantization)**
 
-- 👯 I’m looking to collaborate on [Open-source ML projects in healthcare/finance (especially NLP/LLMs)](Let’s talk!)
+-  I’m looking to collaborate on [Open-source ML projects in healthcare/finance (especially NLP/LLMs)](Let’s talk!)
 
-- 🤝 I’m looking for help with **Fine-tuning LLMs for multilingual support**
+-  I’m looking for help with **Fine-tuning LLMs for multilingual support**
 
-- 💬 Ask me about **Python, TensorFlow, NLP chatbots**
+-  Ask me about **Python, ML Classification Models, NLP chatbots**
 
 - 📫 How to reach me **sifakaveza@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1a1L2TAVejGe_ys9QgPQiVHD4hmVbOVH4E11X34GCxEM/edit?usp=sharing](https://docs.google.com/document/d/1a1L2TAVejGe_ys9QgPQiVHD4hmVbOVH4E11X34GCxEM/edit?usp=sharing)
+-  Know about my experiences [https://docs.google.com/document/d/1a1L2TAVejGe_ys9QgPQiVHD4hmVbOVH4E11X34GCxEM/edit?usp=sharing](https://docs.google.com/document/d/1a1L2TAVejGe_ys9QgPQiVHD4hmVbOVH4E11X34GCxEM/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
