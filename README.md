@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sifa Kaveza Mwachoni</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Kenya 🇰🇪 | Building AI for impact</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Skaveza&theme=darkhub&row=1&margin-w=15" alt="Skaveza" />
-  </a>
-</p>
 
 ---
 
@@ -73,20 +68,6 @@
 ### Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Skaveza&show_icons=true&theme=radical" alt="Skaveza" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skaveza&theme=radical" alt="Skaveza" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Skaveza&show_icons=true&locale=en&layout=compact&theme=radical" alt="Skaveza" />
-</p>
-
----
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Skaveza&label=Profile%20Views&color=0&icon=5&pretty=true" alt="Profile Views" />
