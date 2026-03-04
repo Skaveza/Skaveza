@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sifa Kaveza Mwachoni</h1>
-<h3 align="center">A passionate Machine Learning Engineer from Kenya 🇰🇪 | Building AI for impact</h3>
+<h1 align="center">Hi , I'm Sifa Kaveza Mwachoni</h1>
+<h3 align="center">A passionate Machine Learning Engineer from Kenya  | Building AI for impact</h3>
 
 
 ---
@@ -12,8 +12,6 @@
 - I'm looking for help with **Fine-tuning LLMs for multilingual support**
 - Ask me about **Python, ML Classification Models, NLP chatbots**
 - How to reach me: **sifakaveza@gmail.com**
-- Know about my experiences: [Resume](https://docs.google.com/document/d/1a1L2TAVejGe_ys9QgPQiVHD4hmVbOVH4E11X34GCxEM/edit?usp=sharing)
-
 ---
 
 ## Connect with Me
