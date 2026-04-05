@@ -1,80 +1,39 @@
-<h1 align="center">Hi , I'm Sifa Kaveza Mwachoni</h1>
-<h3 align="center">A passionate Machine Learning Engineer from Kenya  | Building AI for impact</h3>
+# Hey, I'm Sifa 👋🏾
 
+I'm a Backend & ML Engineer based in Nairobi, Kenya — currently finishing my Software Engineering degree at African Leadership University (July 2026).
 
----
-
-## About Me
-
--  I'm currently working on **AI-powered diagnostic chatbots for underserved regions**
--  I'm currently learning **LLM deployment (LangChain, Ollama), MLOps (MLflow), and NLP optimization (Hugging Face, quantization)**
-- I'm looking to collaborate on **Open-source ML projects in healthcare/finance (especially NLP/LLMs)**
-- I'm looking for help with **Fine-tuning LLMs for multilingual support**
-- Ask me about **Python, ML Classification Models, NLP chatbots**
-- How to reach me: **sifakaveza@gmail.com**
----
-
-## Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/sifa-mwachoni/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sifa-mwachoni" height="30"/>
-  </a>
-  <a href="https://kaggle.com/sifamwachoni" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="sifamwachoni" height="30"/>
-  </a>
-  <a href="https://huggingface.co/Skaveza" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="huggingface" height="30"/>
-  </a>
-  <a href="https://instagram.com/sifakaveza" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="sifakaveza" height="30"/>
-  </a>
-  <a href="mailto:sifakaveza@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sifakaveza" height="30"/>
-  </a>
-</p>
+I care a lot about building technology that actually reaches people. Most of my work lives at the intersection of **secure backend systems**, **machine learning**, and communities that mainstream tech tends to overlook.
 
 ---
 
-## Tech Stack
+### What I'm currently building
 
-### Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+| Project | What it does |
+|---|---|
+| 🏥 **Healthbridge** | Encrypted health consultations for people in remote or unsafe areas — with location sharing so physical help can find them |
+| 💧 **Waterpath.ke** | Helps Turkana residents find safe water, report problems via SMS (dispatches technicians via Africa's Talking), and tracks infrastructure on a live dashboard |
+| 🪪 **Uwezo KYC** | Uses receipt scanning + ML to build financial identities for people without formal bank statements |
 
-### Machine Learning & AI
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+---
 
-### Data Science
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+### My stack 
 
-### Deployment & DevOps
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+```
+Languages   →  Python · SQL · Dart
+Backend     →  FastAPI · Flask · REST APIs · JWT Auth · Firebase Auth
+ML / AI     →  PyTorch · scikit-learn · Transformers · LayoutLMv3 · HuggingFace
+Databases   →  PostgreSQL · Firestore · Supabase · SQLAlchemy
+Infra       →  Docker · Nginx · Git
+Security    →  ECDH · AES-256-GCM · Real-time systems
+```
 
-### Databases
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+---
 
-### Tools
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### Let's talk 💬
 
+Always happy to connect with other builders, especially on open-source projects in **healthcare, agriculture, or financial inclusion**. 
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Skaveza&label=Profile%20Views&color=0&icon=5&pretty=true" alt="Profile Views" />
-</p>
-
-<p align="center"> 
-  <i>Let's connect and collaborate!</i> 
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Skaveza&label=Profile%20views&color=0e75b6&style=flat" alt="Skaveza" /> 
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sifa-mwachoni/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/sifamwachoni)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Skaveza)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sifakaveza@gmail.com)
