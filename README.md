@@ -10,9 +10,9 @@ I care a lot about building technology that actually reaches people. Most of my 
 
 | Project | What it does |
 |---|---|
-| 🏥 **Healthbridge** | Encrypted health consultations for people in remote or unsafe areas — with location sharing so physical help can find them |
-| 💧 **Waterpath.ke** | Helps Turkana residents find safe water, report problems via SMS (dispatches technicians via Africa's Talking), and tracks infrastructure on a live dashboard |
-| 🪪 **Uwezo KYC** | Uses receipt scanning + ML to build financial identities for people without formal bank statements |
+| **Healthbridge** | Encrypted health consultations for people in remote or unsafe areas — with location sharing so physical help can find them |
+| **Waterpath.ke** | Helps Turkana residents find safe water, report problems via SMS (dispatches technicians via Africa's Talking), and tracks infrastructure on a live dashboard |
+| **Uwezo KYC** | Uses receipt scanning + ML to build financial identities for people without formal bank statements |
 
 ---
 
